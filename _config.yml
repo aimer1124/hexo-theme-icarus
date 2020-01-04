@@ -1,5 +1,5 @@
 # Version of the Icarus theme that is currently used
-version: 1.0.1
+version: 2.6.1
 # Path or URL to the website's icon
 favicon: /favicon.ico
 # Path or URL to RSS atom.xml
@@ -70,11 +70,11 @@ search:
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Comment-Plugins
 comment:
   type: valine
-  app_id: aJDgnIqLge6VdexqGxoiMAxN-gzGzoHsz        # (required) LeanCloud application id
-  app_key: rRr672vaxLGlVIOyxIPqijt5       # (required) LeanCloud application key
-  notify: 380774061@qq.com           # (optional) receive email notification
-  verify: false           # (optional) show verification code
-  placeholder: Say what?   # (optional) comment box placeholder text
+  app_id: aJDgnIqLge6VdexqGxoiMAxN-gzGzoHsz # (required) LeanCloud application id
+  app_key: rRr672vaxLGlVIOyxIPqijt5 # (required) LeanCloud application key
+  notify: 380774061@qq.com # (optional) receive email notification
+  verify: false # (optional) show verification code
+  placeholder: Say what? # (optional) comment box placeholder text
 
 # Donation entries
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
@@ -129,11 +129,11 @@ widgets:
     # Where should the widget be placed, left or right
     position: left
     # Author name to be shown in the profile widget
-    author: PPOffice
+    author: Yuanjie
     # Title of the author to be shown in the profile widget
     author_title: Web Developer
     # Author's current location to be shown in the profile widget
-    location: Earth, Solar System
+    location: Xi'an, Shaanxi
     # Path or URL to the avatar to be shown in the profile widget
     avatar:
     # Email address for the Gravatar to be shown in the profile widget

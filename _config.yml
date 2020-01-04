@@ -45,7 +45,7 @@ footer:
       url: 'https://creativecommons.org/licenses/by/4.0/'
     Download on GitHub:
       icon: fab fa-github
-      url: 'http://github.com/ppoffice/hexo-theme-icarus'
+      url: 'https://github.com/aimer1124'
 # Article display settings
 article:
   # Code highlight settings
@@ -72,7 +72,7 @@ comment:
   type: valine
   app_id: aJDgnIqLge6VdexqGxoiMAxN-gzGzoHsz # (required) LeanCloud application id
   app_key: rRr672vaxLGlVIOyxIPqijt5 # (required) LeanCloud application key
-  notify: 380774061@qq.com # (optional) receive email notification
+  notify: true # (optional) receive email notification
   verify: false # (optional) show verification code
   placeholder: Say what? # (optional) comment box placeholder text
 
@@ -131,17 +131,17 @@ widgets:
     # Author name to be shown in the profile widget
     author: Yuanjie
     # Title of the author to be shown in the profile widget
-    author_title: Web Developer
+    author_title: 干过QA的PM
     # Author's current location to be shown in the profile widget
     location: Xi'an, Shaanxi
     # Path or URL to the avatar to be shown in the profile widget
-    avatar:
+    avatar: /favicon.ico
     # Email address for the Gravatar to be shown in the profile widget
-    gravatar:
+    gravatar: /favicon.ico
     # Whether to show avatar image rounded or square
     avatar_rounded: false
     # Path or URL for the follow button
-    follow_link: 'http://github.com/ppoffice'
+    follow_link: 'https://github.com/aimer1124'
     # Links to be shown on the bottom of the profile widget
     social_links:
       Github:
@@ -233,6 +233,7 @@ plugins:
   # BuSuanZi site/page view counter
   # https://busuanzi.ibruce.info
   busuanzi: true
+
 # CDN provider settings
 # http://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:

@@ -131,7 +131,7 @@ widgets:
     # Author name to be shown in the profile widget
     author: Yuanjie
     # Title of the author to be shown in the profile widget
-    author_title: 干过QA的PM
+    author_title: PM&QA
     # Author's current location to be shown in the profile widget
     location: Xi'an, Shaanxi
     # Path or URL to the avatar to be shown in the profile widget
@@ -143,36 +143,36 @@ widgets:
     # Path or URL for the follow button
     follow_link: 'https://github.com/aimer1124'
     # Links to be shown on the bottom of the profile widget
-    social_links:
-      Github:
-        icon: fab fa-github
-        url: 'https://github.com/aimer1124'
-      Facebook:
-        icon: fab fa-facebook
-        url: 'http://facebook.com'
-      Twitter:
-        icon: fab fa-twitter
-        url: 'http://twitter.com'
-      Dribbble:
-        icon: fab fa-dribbble
-        url: 'http://dribbble.com'
-      RSS:
-        icon: fas fa-rss
-        url: /
+#    social_links:
+#      Github:
+#        icon: fab fa-github
+#        url: 'https://github.com/aimer1124'
+#      Facebook:
+#        icon: fab fa-facebook
+#        url: 'http://facebook.com'
+#      Twitter:
+#        icon: fab fa-twitter
+#        url: 'http://twitter.com'
+#      Dribbble:
+#        icon: fab fa-dribbble
+#        url: 'http://dribbble.com'
+#      RSS:
+#        icon: fas fa-rss
+#        url: /
   -
     # Widget name
     type: toc
     # Where should the widget be placed, left or right
     position: left
-  -
-    # Widget name
-    type: links
-    # Where should the widget be placed, left or right
-    position: left
-    # Links to be shown in the links widget
-    links:
-      Hexo: 'https://hexo.io'
-      Bulma: 'https://bulma.io'
+#  -
+#    # Widget name
+#    type: links
+#    # Where should the widget be placed, left or right
+#    position: left
+#    # Links to be shown in the links widget
+#    links:
+#      Github: 'https://github.com/aimer1124'
+#      知乎: 'https://bulma.io'
   -
     # Widget name
     type: category

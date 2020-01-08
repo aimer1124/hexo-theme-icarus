@@ -88,7 +88,7 @@ donate:
        # Donation entry name
        type: wechat
        # Qrcode image URL
-       qrcode: /img/Donate/Wechat.jpg
+       qrcode: /img/Donate/WeChat.jpg
 #     -
 #         # Donation entry name
 #         type: paypal

@@ -78,17 +78,17 @@ comment:
 
 # Donation entries
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
-# donate:
-#     -
-#         # Donation entry name
-#         type: alipay
-#         # Qrcode image URL
-#         qrcode: /gallery/donate/alipay.png
-#     -
-#         # Donation entry name
-#         type: wechat
-#         # Qrcode image URL
-#         qrcode: /gallery/donate/wechat.jpg
+donate:
+   -
+       # Donation entry name
+       type: alipay
+       # Qrcode image URL
+       qrcode: /img/Donate/Alipay.png
+   -
+       # Donation entry name
+       type: wechat
+       # Qrcode image URL
+       qrcode: /img/Donate/Wechat.jpg
 #     -
 #         # Donation entry name
 #         type: paypal
@@ -193,11 +193,11 @@ widgets:
     type: archive
     # Where should the widget be placed, left or right
     position: right
-  -
-    # Widget name
-    type: tag
-    # Where should the widget be placed, left or right
-    position: right
+#  -
+#    # Widget name
+#    type: tag
+#    # Where should the widget be placed, left or right
+#    position: right
 # Other plugin settings
 plugins:
   # Enable page animations

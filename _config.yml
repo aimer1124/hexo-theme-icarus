@@ -101,12 +101,12 @@ donate:
 #         type: patreon
 #         # URL to the Patreon page
 #         url: https://www.patreon.com/
-# Share plugin settings
-# http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Share-Plugins
-share:
-  # Share plugin name
-  type: sharethis
-  install_url: //platform-api.sharethis.com/js/sharethis.js#property=5ab6f60ace89f00013641890&product=inline-share-buttons
+## Share plugin settings
+## http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Share-Plugins
+#share:
+#  # Share plugin name
+#  type: sharethis
+#  install_url: //platform-api.sharethis.com/js/sharethis.js#property=5ab6f60ace89f00013641890&product=inline-share-buttons
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -217,7 +217,7 @@ plugins:
   # http://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
   google-analytics:
     # Google Analytics tracking id
-    tracking_id: UA-72437521-5
+    tracking_id:
   # Baidu Analytics plugin settings
   # http://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
   baidu-analytics:
@@ -227,7 +227,7 @@ plugins:
   # http://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Hotjar
   hotjar:
     # Hotjar site id
-    site_id: 1637697
+    site_id:
   # Show a loading progress bar at top of the page
   progressbar: true
   # BuSuanZi site/page view counter

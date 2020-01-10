@@ -222,12 +222,12 @@ plugins:
   # http://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
   baidu-analytics:
     # Baidu Analytics tracking id
-    tracking_id:
+    tracking_id: ac69e1e54b317232c0d3a881b738cfe8
   # Hotjar user feedback plugin
   # http://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Hotjar
   hotjar:
     # Hotjar site id
-    site_id: 1067642
+    site_id: 1637697
   # Show a loading progress bar at top of the page
   progressbar: true
   # BuSuanZi site/page view counter

@@ -135,9 +135,9 @@ widgets:
 #    # Author's current location to be shown in the profile widget
     location: Xi'an, Shaanxi
     # Path or URL to the avatar to be shown in the profile widget
-    avatar: /img/favicon.ico
+    avatar:
     # Email address for the Gravatar to be shown in the profile widget
-    gravatar: /img/favicon.ico
+    gravatar:
     # Whether to show avatar image rounded or square
     avatar_rounded: true
     # Path or URL for the follow button
